@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+
+data/*
+clip_exp/*
+data/*
+saved_model/*
+simple_exp/*
+
+*.pth
